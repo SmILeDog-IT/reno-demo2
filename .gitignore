@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.npm-cache/
+*.tsbuildinfo
+.reference/
+.browser-profile/
+test-results/
+*.local
